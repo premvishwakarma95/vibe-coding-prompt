@@ -207,6 +207,21 @@ Write it clearly so any beginner developer can read and understand.
 
 # More shorter prompt.
 
+## 🔁 The Ideal Flow in Cursor
+```
+Prompt 1 → Get structure → Accept it
+Prompt 2 → Get schema → Accept it
+Prompt 3 → Get APIs → Accept it
+Prompt 4 → Get auth → Test it
+Prompt 5 → Get components → Accept it
+Prompt 6 → One feature at a time → Test each one
+Prompt 7 → Fix bugs as they come
+Prompt 8 → Write tests at the end
+Prompt 9 → Generate docs last
+```
+
+---
+
 ## 1️⃣ Project Setup (Fill this ONCE — use it everywhere)
 ```
 You are a senior software architect. I will describe my project 
