@@ -17,6 +17,7 @@ And use standard file system
 ---
 
 ## 1️⃣ Folder Structure
+```
 You are a senior software architect. I will describe my project in a few lines and also provide the tech stack I want to use. Your job is to design a complete folder structure for my web application.
 
 My Project:
@@ -34,10 +35,12 @@ Please provide:
 - A short comment next to each folder explaining what goes inside it
 
 Keep it simple, clear, and beginner-friendly.
+```
 
 ---
 
 ## 2️⃣ Database Schema
+```
 You are a senior backend developer.
 
 My Project:
@@ -50,10 +53,12 @@ Generate a complete database schema:
 - Primary keys, foreign keys, and relations
 - Add a one-line comment on each table explaining its purpose
 Keep it simple and beginner-friendly.
+```
 
 ---
 
 ## 3️⃣ API Design
+```
 You are a senior backend developer.
 
 My Project:
@@ -68,10 +73,12 @@ Generate a complete REST API design:
 - Response structure
 - Which role can access it (e.g. admin, user, public)
 Keep it simple and beginner-friendly.
+```
 
 ---
 
 ## 4️⃣ Authentication Flow
+```
 You are a senior backend developer.
 
 My Project:
@@ -87,10 +94,12 @@ Generate the complete authentication flow:
 - Protected route handling
 - Logout flow
 Explain each step simply for a beginner developer.
+```
 
 ---
 
 ## 5️⃣ Frontend Components
+```
 You are a senior frontend developer.
 
 My Project:
@@ -104,10 +113,12 @@ Generate a complete frontend component breakdown:
 - Show the component hierarchy (parent → child)
 - Add a one-line description for each component
 Keep it simple and beginner-friendly.
+```
 
 ---
 
 ## 6️⃣ Feature Code
+```
 You are a senior full stack developer.
 
 My Project:
@@ -125,8 +136,10 @@ Write complete working code for this feature:
 - Backend: API route + logic + DB query
 - Frontend: UI + API call + state handling
 Add comments in the code so a beginner can understand each step.
+```
 
 ## 7️⃣ Debugging
+```
 You are a senior developer and expert debugger.
 
 My Tech Stack: [e.g. React + Node.js + MongoDB]
@@ -145,10 +158,12 @@ Error message (if any):
 
 Find the bug, explain why it happened in simple words,
 and give me the fixed code with comments.
+```
 
 ---
 
 ## 8️⃣ Testing
+```
 You are a senior QA and backend developer.
 
 My Tech Stack: [e.g. Node.js + Jest, React + React Testing Library]
@@ -164,10 +179,12 @@ Generate complete test cases:
 - Edge cases to cover
 - Use simple comments to explain what each test is checking
 Keep it beginner-friendly.
+```
 
 ---
 
 ## 9️⃣ Documentation
+```
 You are a senior technical writer and developer.
 
 My Project:
@@ -184,6 +201,7 @@ Generate complete project documentation:
 3. Folder Structure explanation
 4. Environment variables needed (.env example)
 Write it clearly so any beginner developer can read and understand.
+```
 
 ---
 
@@ -204,4 +222,110 @@ My Tech Stack:
 - Authentication: [e.g. JWT, Firebase Auth]
 
 Acknowledge this and wait for my next instruction.
+```
+
+---
+
+## 2️⃣ Folder Structure
+```
+Based on the project and tech stack I already provided,
+generate a complete folder/file structure for both frontend and backend.
+Add a short comment next to each folder explaining what goes inside it.
+```
+
+---
+
+## 3️⃣ Database Schema
+```
+Based on the project and tech stack I already provided,
+generate a complete database schema:
+- All tables/collections with field names and data types
+- Primary keys, foreign keys and relations
+- One-line comment on each table explaining its purpose
+```
+
+---
+
+## 4️⃣ API Design
+```
+Based on the project and tech stack I already provided,
+generate a complete REST API design:
+- All endpoints with method (GET, POST, PUT, DELETE)
+- Route path
+- Request body / params
+- Response structure
+- Which role can access it (admin, user, public)
+```
+
+---
+
+## 5️⃣ Authentication Flow
+```
+Based on the project and tech stack I already provided,
+generate the complete authentication flow:
+- Register flow (step by step)
+- Login flow (step by step)
+- Token generation and verification
+- Protected route handling
+- Logout flow
+```
+
+---
+
+## 6️⃣ Frontend Components
+```
+Based on the project and tech stack I already provided,
+generate a complete frontend component breakdown:
+- All pages and their purpose
+- Components used inside each page
+- Component hierarchy (parent → child)
+- One-line description for each component
+```
+
+---
+
+## 7️⃣ Feature Code
+```
+Based on the project and tech stack I already provided,
+build this specific feature:
+
+Feature: [DESCRIBE THE FEATURE IN 1-2 LINES]
+
+Write complete working code:
+- Backend: API route + logic + DB query
+- Frontend: UI + API call + state handling
+Add comments so a beginner can understand each step.
+```
+
+---
+
+## 8️⃣ Debugging
+```
+Based on the project and tech stack I already provided,
+I have a bug in this feature: [DESCRIBE THE FEATURE]
+
+Problem: [DESCRIBE THE BUG]
+
+My Code:
+[PASTE CODE HERE]
+
+Error (if any):
+[PASTE ERROR HERE]
+
+Find the bug, explain why it happened, and give me the fixed code.
+```
+
+---
+
+## 9️⃣ Testing
+```
+Based on the project and tech stack I already provided,
+write complete test cases for this module:
+
+Module: [NAME THE MODULE]
+
+Code to test:
+[PASTE CODE HERE]
+
+Cover unit tests and edge cases with comments explaining each test.
 ```
