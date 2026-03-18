@@ -1,5 +1,8 @@
 # vibe-coding-prompt
 
+## Project requiremet sheet for vibe coding.
+https://docs.google.com/document/d/1BRT9vjH7t_wbYr9DeWRerPi-g6KKNdCQ9e-NaMSpLD8/edit?tab=t.nx1z5ojdjhdq#heading=h.wb7o5l7jo335
+
 ## First prompt to create prompt so i can give it to LLM or (Vibe coding tool).
 So i am about to create new project using your model with wipe coding 
 Project requirement (HR management system)
