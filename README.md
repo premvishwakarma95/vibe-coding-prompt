@@ -184,3 +184,24 @@ Generate complete project documentation:
 3. Folder Structure explanation
 4. Environment variables needed (.env example)
 Write it clearly so any beginner developer can read and understand.
+
+---
+
+# More shorter prompt.
+
+## 1️⃣ Project Setup (Fill this ONCE — use it everywhere)
+```
+You are a senior software architect. I will describe my project 
+and tech stack once. Remember this for all my upcoming prompts.
+
+My Project:
+[DESCRIBE YOUR PROJECT IN 2-5 LINES]
+
+My Tech Stack:
+- Frontend: [e.g. React, Next.js]
+- Backend: [e.g. Node.js, Django]
+- Database: [e.g. PostgreSQL, MongoDB]
+- Authentication: [e.g. JWT, Firebase Auth]
+
+Acknowledge this and wait for my next instruction.
+```
