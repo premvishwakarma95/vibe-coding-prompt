@@ -124,6 +124,7 @@ The output prompt must be:
 - First paste this prompt in gpt then it will ask some questions about your project.
 - Then paste that questions you were asked and also tell about your project and tell gpt to give these questions answers in this format about your project.
 - Discuss abuot your project then get that asked questions answers in this format and paste in prompt generator chat then you will final prompt that you will give to your IDE integrated LLM.
+- Best thing first discuss about the project in the chat all things.
 
 ---
 
